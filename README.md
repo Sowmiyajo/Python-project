@@ -1,5 +1,5 @@
 # Python-project
-This project focuses on the application of Deep Learning techniques for the neuroimage segmentation of brain anatomy. Using Python, advanced machine learning models are trained to segment MRI and CT brain scans, allowing for the precise extraction of anatomical structures such as the cortex, white matter, and gray matter. The goal is to improve the accuracy of medical imaging analysis and contribute to research in neurology, diagnostics, and brain health.
+This project focuses on the application of Deep Learning techniques for the neuroimage segmentation of brain anatomy. Using Python, advanced machine learning models are trained to segment MRI and CT brain scans, allowing for the precise extraction of anatomical structures such as the cortex, white matter, and gray matter. The goal is to improve the accuracy of medical imaging analysis and contribute to research in neurology, diagnostics and brain health.
 
 Key features include:
 - Efficient Segmentation Models: Utilizes state-of-the-art deep learning architectures (such as U-Net and 3D CNNs) for precise segmentation of brain structures.
